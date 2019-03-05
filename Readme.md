@@ -1,3 +1,9 @@
+Updated for smaller filesize
+## Download from here:
+<a href="https://github.com/KNG-Scherezade/AI-Pathfinding/releases/download/1.0/Windows.zip">Windows Download</a><br/>
+<a href="https://github.com/KNG-Scherezade/AI-Pathfinding/releases/download/1.0/Windows.zip">Linux Download</a>
+
+
 Project file and exe are too big for moodle.<br/>
 Files are on github.<br/>
 
