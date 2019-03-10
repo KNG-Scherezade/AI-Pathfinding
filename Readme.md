@@ -15,4 +15,6 @@ r to reset start and end choices<br/>
 left shift to enable character to move<br/>
 space the change graph<br/>
 
-https://github.com/KNG-Scherezade/AI-Pathfinding
+https://github.com/KNG-Scherezade/AI-Pathfinding<br/>
+https://assetstore.unity.com/packages/3d/characters/humanoids/scifi-robots-113422<br/>
+https://assetstore.unity.com/packages/3d/pro-tek-ar-vr-sci-fi-bundle-3-in-1-87198<br/>
